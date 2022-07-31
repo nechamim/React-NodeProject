@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/houzz-project/static/css/main.55bd35cc.css",
+    "main.js": "/houzz-project/static/js/main.c40f24dd.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/houzz-project/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/houzz-project/index.html",
+    "main.55bd35cc.css.map": "/houzz-project/static/css/main.55bd35cc.css.map",
+    "main.c40f24dd.js.map": "/houzz-project/static/js/main.c40f24dd.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/houzz-project/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55bd35cc.css",
+    "static/js/main.c40f24dd.js"
+  ]
+}
